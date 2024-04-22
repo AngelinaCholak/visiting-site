@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/visiting-site/static/css/main.bc46ea8e.css",
+    "main.js": "/visiting-site/static/js/main.9daa8831.js",
+    "static/media/background-heder2.jpg": "/visiting-site/static/media/background-heder2.297463d2ac0722c3376b.jpg",
+    "static/media/sprite.svg": "/visiting-site/static/media/sprite.d953eff8c7691469c77008be0d120add.svg",
+    "index.html": "/visiting-site/index.html",
+    "main.bc46ea8e.css.map": "/visiting-site/static/css/main.bc46ea8e.css.map",
+    "main.9daa8831.js.map": "/visiting-site/static/js/main.9daa8831.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc46ea8e.css",
+    "static/js/main.9daa8831.js"
+  ]
+}
