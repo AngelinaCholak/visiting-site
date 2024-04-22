@@ -35,6 +35,11 @@ const Logo = () => {
           <use href={sprite + "#whatsapp"}></use>
         </svg>
       </div>
+      <div className={css.social}>
+        <svg onClick={handleWhatsAppClick}>
+          <use href={sprite + "#whatsapp"}></use>
+        </svg>
+      </div>
     </div>
   );
 };
