@@ -4,7 +4,7 @@ import RestrictedRoutes from 'routes/RestrictedRoutes/RestrictedRoutes';
 export const App = () => {
   return (
     <div >
-<RestrictedRoutes/>
+       <RestrictedRoutes/>
     </div>
   );
 };

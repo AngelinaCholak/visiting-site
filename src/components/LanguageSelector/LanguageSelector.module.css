@@ -1,0 +1,16 @@
+
+.buttonLeng {
+  background-color: transparent; /* Прозорий фон */
+  border: none; /* Відсутність рамки */
+  padding: 5px 10px; /* Параметри внутрішнього відступу */
+  font-size: 26px; 
+  cursor: pointer; 
+  color: var( --text-black-color);
+  outline: none; /* Відсутність обводки при фокусі */
+  font-weight: bold;
+}
+
+.active {
+   color: var( --blue-fone); 
+
+}
