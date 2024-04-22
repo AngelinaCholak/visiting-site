@@ -7,7 +7,7 @@ import { LanguageProvider } from "components/LanguageSelector/LanguageContext";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/visiting-site">
+    <BrowserRouter basename="/visiting-site/">
       <LanguageProvider>
         <App />
       </LanguageProvider>
